@@ -1,9 +1,70 @@
 {
-  "todos": [
-    { "id": "1", "title": "Do homework", "checked": "false" },
-    { "id": "2", "title": "Play football", "checked": "true" },
-    { "id": "3", "title": "Play baseball", "checked": "false" },
-    { "id": "4", "title": "Play basketball", "checked": "false" },
-    { "id": "5", "title": "Play ball", "checked": "true" }
+  "users": [
+    {
+      "id": "1",
+      "name": "David Wagner",
+      "email": "david_wagner@example.com",
+      "role": [
+        "Admin",
+        "Seller"
+      ],
+      "tel": "+998 99 999 99 99"
+    },
+    {
+      "id": "2",
+      "name": "Ina Hogan",
+      "email": "windler.warren@runte.net",
+      "role": [
+        "Admin",
+        "Seller"
+      ],
+      "tel": "+998 99 999 99 99"
+    },
+    {
+      "id": "3",
+      "name": "Devin Harmon",
+      "email": "wintheiser_enos@yahoo.com",
+      "role": [
+        "Info"
+      ],
+      "tel": "+998 99 999 99 99"
+    },
+    {
+      "id": "4",
+      "name": "Lena Page",
+      "email": "camila_ledner@gmail.com",
+      "role": [
+        "Seller"
+      ],
+      "tel": "+998 99 999 99 99"
+    },
+    {
+      "id": "5",
+      "name": "Eula Horton",
+      "email": "edula_dorton1221@gmail.com",
+      "role": [
+        "Info",
+        "Admin"
+      ],
+      "tel": "+998 99 999 99 99"
+    },
+    {
+      "id": "6",
+      "name": "Victoria Perez",
+      "email": "terrill.wiza@hotmail.com",
+      "role": [
+        "Seller"
+      ],
+      "tel": "+998 99 999 99 99"
+    },
+    {
+      "id": "7",
+      "name": "Cora Medina",
+      "email": "hagenes.isai@hotmail.com",
+      "role": [
+        "Admin"
+      ],
+      "tel": "+998 99 999 99 99"
+    }
   ]
 }
