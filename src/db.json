@@ -1,72 +1,72 @@
 {
-  "users": [
-    {
-      "id": "1",
-      "name": "David Wagner",
-      "email": "david_wagner@example.com",
-      "role": [
-        "Admin",
-        "Seller"
-      ],
-      "tel": "+998 99 999 99 99"
-    },
-    {
-      "id": "2",
-      "name": "Ina Hogan",
-      "email": "windler.warren@runte.net",
-      "role": [
-        "Admin",
-        "Seller"
-      ],
-      "tel": "+998 99 999 99 99"
-    },
-    {
-      "id": "3",
-      "name": "Devin Harmon",
-      "email": "wintheiser_enos@yahoo.com",
-      "role": [
-        "Info"
-      ],
-      "tel": "+998 99 999 99 99"
-    },
-    {
-      "id": "4",
-      "name": "Lena Page",
-      "email": "camila_ledner@gmail.com",
-      "role": [
-        "Seller"
-      ],
-      "tel": "+998 99 999 99 99"
-    },
-    {
-      "id": "5",
-      "name": "Eula Horton",
-      "email": "edula_dorton1221@gmail.com",
-      "role": [
-        "Info",
-        "Admin"
-      ],
-      "tel": "+998 99 999 99 99"
-    },
-    {
-      "id": "6",
-      "name": "Victoria Perez",
-      "email": "terrill.wiza@hotmail.com",
-      "role": [
-        "Seller"
-      ],
-      "tel": "+998 99 999 99 99"
-    },
-    {
-      "id": "7",
-      "name": "Cora Medina",
-      "email": "hagenes.isai@hotmail.com",
-      "role": [
-        "Admin"
-      ],
-      "tel": "+998 99 999 99 99"
-    }
-  ],
+  "users":[
+  {
+    "id": 1,
+    "first_name": "Alice",
+    "last_name": "Johnson",
+    "birthday": "1995-04-15T00:00:00Z",
+    "login": "alicej",
+    "password": "password123",
+    "role_id": 2,
+    "contacts_id": 101,
+    "gender": "female",
+    "occupation_id": 5,
+    "social_status_id": 3
+  },
+  {
+    "id": 2,
+    "first_name": "Bob",
+    "last_name": "Smith",
+    "birthday": "1988-09-23T00:00:00Z",
+    "login": "bobsmith88",
+    "password": "securepass456",
+    "role_id": 1,
+    "contacts_id": 102,
+    "gender": "male",
+    "occupation_id": 3,
+    "social_status_id": 2
+  },
+  {
+    "id": 3,
+    "first_name": "Charlie",
+    "last_name": "Brown",
+    "birthday": "2000-12-10T00:00:00Z",
+    "login": "charlieb",
+    "password": "mypassword789",
+    "role_id": 3,
+    "contacts_id": 103,
+    "gender": "male",
+    "occupation_id": 4,
+    "social_status_id": 1
+  },
+  {
+    "id": 4,
+    "first_name": "Diana",
+    "last_name": "Williams",
+    "birthday": "1992-07-30T00:00:00Z",
+    "login": "dianaw",
+    "password": "password321",
+    "role_id": 2,
+    "contacts_id": 104,
+    "gender": "female",
+    "occupation_id": 2,
+    "social_status_id": 4
+  },
+  {
+    "id": 5,
+    "first_name": "Edward",
+    "last_name": "Davis",
+    "birthday": "1985-02-17T00:00:00Z",
+    "login": "eddie_d",
+    "password": "pass1234",
+    "role_id": 1,
+    "contacts_id": 105,
+    "gender": "male",
+    "occupation_id": 1,
+    "social_status_id": 5
+  }
+]
+,
   "registrations":[
   {
     "id": 1,
