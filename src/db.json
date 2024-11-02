@@ -67,6 +67,69 @@
   }
 ]
 ,
+  "roles":[
+  {
+    "id": 1,
+    "name": "Admin"
+  },
+  {
+    "id": 2,
+    "name": "User"
+  },
+  {
+    "id": 3,
+    "name": "Moderator"
+  },
+  {
+    "id": 4,
+    "name": "Guest"
+  }
+],
+"occupations":[
+  {
+    "id": 1,
+    "title": "Software Engineer"
+  },
+  {
+    "id": 2,
+    "title": "Data Scientist"
+  },
+  {
+    "id": 3,
+    "title": "Graphic Designer"
+  },
+  {
+    "id": 4,
+    "title": "Product Manager"
+  },
+  {
+    "id": 5,
+    "title": "Sales Associate"
+  }
+],
+  "social_status":[
+  {
+    "id": 1,
+    "title": "Employed"
+  },
+  {
+    "id": 2,
+    "title": "Unemployed"
+  },
+  {
+    "id": 3,
+    "title": "Student"
+  },
+  {
+    "id": 4,
+    "title": "Retired"
+  },
+  {
+    "id": 5,
+    "title": "Self-employed"
+  }
+],
+
   "registrations":[
   {
     "id": 1,
